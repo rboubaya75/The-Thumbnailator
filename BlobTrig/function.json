@@ -1,0 +1,20 @@
+{
+    "bindings": [
+      {
+        "name": "inputBlob",
+        "type": "blobTrigger",
+        "dataType": "binary",
+        "direction": "in",
+        "path": "rachid/{name}",
+        "connection": "rachid_STORAGE"
+      },
+      {
+        "type": "blob",
+        "name": "outputBlob",
+        "path": "images/{name}",
+        "connection": "rachid_STORAGE",
+        "direction": "out"
+      }
+    ],
+    "disabled": false
+  }
