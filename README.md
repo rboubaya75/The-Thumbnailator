@@ -18,7 +18,8 @@ For this purpose, I have created two blobs, which will contain pictures I upload
 
 # A brief presentation of Azure functions
 "Azure Functions is a cloud service available on-demand that provides all the continually-updated infrastructure and resources needed to run your applications. You focus on the pieces of code that matter most to you, and Functions handles the rest. Functions provides serverless compute for Azure. You can use Functions to build web APIs, respond to database changes, process IoT streams, manage message queues, and more."
-As you can see below, we can add many functions that will be triggered if an event occurs. In our case, our function will be excecuted whenever a picture is uploader in our specified container. 
+As you can see below, we can add many functions that will be triggered if an event occurs. In our case, our function will be excecuted whenever a picture is uploaded in our specified container. 
+
 ![](https://lh6.googleusercontent.com/g_PmvcGPz5ImRbE68aADPnsS7KxKFN6s3uw6DtP9ISHsUH5q4D6HakP_8z1EjqsjGy8h6oQ05Q6znixrgc0KvCeo52s9K0Dxl8ZFgtkvx2x4HnQxvtkh31NDgTwEQ0oVRuMlAUGnaJk)
 
 ## Workflow of the function
