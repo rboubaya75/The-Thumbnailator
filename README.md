@@ -35,3 +35,14 @@ To install all the necessary requirements, place yourself at /wwwroot, where fun
 
 install all requirements
 ![](https://lh5.googleusercontent.com/pVh-9_lZE3nVV5q_AMQEwe5KnoxLejb1Sutnvz29AWjE-wl-5OzKPNWWG4FAmPA_rWbz2it3stIDWSDE3f7rK_qXaQJLGeQeMx9njYsjNHSjNuUNe1dzxVpQ9_LL8FbXCuIE7VlxKt8)**
+
+
+## The script in JavaScript and TypeScript 
+Please refert to my files
+
+## Difficulties and next steps
+**Difficulties:**
+
+**Next steps: email sender using SendGrid**
+
+**![](https://lh6.googleusercontent.com/GV52rXipS_X8AyIMXMp1aaHoNGzT1qzg21llA0iiI2iue2xm5BxSN2jFaxHKc2tWbYoy-PKeNH6eN5zLKzkZV_9OsbPsBSy7lWGsfpeGESaIf5P8k-rGu96nWGycNMVDaLPmugSOL90)**
