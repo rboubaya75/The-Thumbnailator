@@ -1,6 +1,6 @@
 # **Brief: The Thumbnailator**
 
-I have  undertaken this project in the framework of my professional training to become a Cloud Developer. (SIMPLON School).
+I have  undertaken this project in the framework of my professional training to become ** AZURE Cloud Developer ** at SIMPLON School in partnairship with Microsoft.
 
 ## Why the project was launched ? :
 
